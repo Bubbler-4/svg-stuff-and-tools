@@ -1,0 +1,21 @@
+<svg version="1.1" baseProfile="full" width="500" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect x="0" y="0" width="500" height="200" stroke="transparent" fill="white" />
+  <!-- Step 0: The square paper with G -->
+  <rect x="30" y="30" width="140" height="140" stroke="black" fill="transparent" />
+  <text x="18" y="30" font-size="15" text-anchor="middle" dominant-baseline="middle" fill="black">A</text>
+  <text x="182" y="30" font-size="15" text-anchor="middle" dominant-baseline="middle" fill="black">B</text>
+  <text x="182" y="170" font-size="15" text-anchor="middle" dominant-baseline="middle" fill="black">C</text>
+  <text x="18" y="170" font-size="15" text-anchor="middle" dominant-baseline="middle" fill="black">D</text>
+  <line x1="30" y1="89.17" x2="170" y2="170" stroke="black"></line>
+  <text x="18" y="89.17" font-size="15" text-anchor="middle" dominant-baseline="middle" fill="black">G</text>
+  <!-- Step 1: Reflect G to AB and BC -->
+  <line x1="170" y1="110.83" x2="67.51" y2="110.83" stroke="black"></line>
+  <text x="182" y="110.83" font-size="15" text-anchor="middle" dominant-baseline="middle" fill="black">G'</text>
+  <!-- Step 2: Rearrange the pieces -->
+  <rect x="230" y="30" width="242.49" height="80.83" stroke="black" fill="transparent" />
+  <line x1="230" y1="30" x2="370" y2="110.83" stroke="black"></line>
+  <line x1="332.49" y1="30" x2="332.49" y2="89.17" stroke="black"></line>
+  <line x1="310.83" y1="30" x2="310.83" y2="110.83" stroke="black" stroke-dasharray="2,2"></line>
+  <line x1="391.66" y1="30" x2="391.66" y2="110.83" stroke="black" stroke-dasharray="2,2"></line>
+</svg>
