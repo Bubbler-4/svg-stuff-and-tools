@@ -1,0 +1,20 @@
+<svg version="1.1" baseProfile="full" width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect x="0" y="0" width="200" height="200" stroke="transparent" fill="white" />
+  <!-- Step 0: The square paper -->
+  <rect x="30" y="30" width="140" height="140" stroke="black" fill="transparent" />
+  <text x="18" y="30" font-size="15" text-anchor="middle" dominant-baseline="middle" fill="black">A</text>
+  <text x="182" y="30" font-size="15" text-anchor="middle" dominant-baseline="middle" fill="black">B</text>
+  <text x="182" y="170" font-size="15" text-anchor="middle" dominant-baseline="middle" fill="black">C</text>
+  <text x="18" y="170" font-size="15" text-anchor="middle" dominant-baseline="middle" fill="black">D</text>
+  <!-- Step 1: Fold in half -->
+  <line x1="100" y1="30" x2="100" y2="170" stroke="black" stroke-dasharray="2,2"></line>
+  <text x="100" y="18" font-size="15" text-anchor="middle" dominant-baseline="middle" fill="black">E</text>
+  <text x="100" y="182" font-size="15" text-anchor="middle" dominant-baseline="middle" fill="black">F</text>
+  <!-- Step 2: Fold over D, overlapping C with EF -->
+  <line x1="170" y1="89.17" x2="30" y2="170" stroke="black"></line>
+  <line x1="170" y1="89.17" x2="100" y2="48.76" stroke="black"></line>
+  <line x1="100" y1="48.76" x2="30" y2="170" stroke="black"></line>
+  <text x="88" y="48.76" font-size="15" text-anchor="middle" dominant-baseline="middle" fill="black">C'</text>
+  <text x="182" y="89.17" font-size="15" text-anchor="middle" dominant-baseline="middle" fill="black">G'</text>
+</svg>
