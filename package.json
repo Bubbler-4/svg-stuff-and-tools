@@ -1,0 +1,32 @@
+{
+  "name": "svg-stuff-and-tools",
+  "version": "1.0.0",
+  "description": "SVG drawing tools for my private use",
+  "main": "index.js",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^11.0.1",
+    "@rollup/plugin-node-resolve": "^7.0.0",
+    "rollup": "^1.16.2",
+    "rollup-plugin-terser": "^5.0.0",
+    "serve": "^11.0.2",
+    "@svgdotjs/svg.js": "^3.0.16"
+  },
+  "scripts": {
+    "build": "rollup -c",
+    "start": "serve public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bubbler-4/svg-stuff-and-tools.git"
+  },
+  "keywords": [
+    "svg"
+  ],
+  "author": "Bubbler",
+  "license": "MIT",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/Bubbler-4/svg-stuff-and-tools/issues"
+  },
+  "homepage": "https://github.com/Bubbler-4/svg-stuff-and-tools#readme"
+}
