@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13" height="4">
+
+  <defs>
+    <rect id="t" width="1" height="1" fill="#ffc0c0" />
+    <rect id="v" width="1" height="1" fill="#ffffc0" />
+    <rect id="r" width="1" height="1" fill="#c0ffc0" />
+    <rect id="s" width="1" height="1" fill="#c0ffff" />
+    <rect id="q" width="1" height="1" fill="#c0c0ff" />
+    <rect id="u" width="1" height="1" fill="#ffc0ff" />
+    
+    <rect id="l" width="1" height="1" fill="#ff0000" />
+    <rect id="n" width="1" height="1" fill="#ffff00" />
+    <rect id="j" width="1" height="1" fill="#00ff00" />
+    <rect id="k" width="1" height="1" fill="#00ffff" />
+    <rect id="i" width="1" height="1" fill="#0000ff" />
+    <rect id="m" width="1" height="1" fill="#ff00ff" />
+    
+    <rect id="d" width="1" height="1" fill="#c00000" />
+    <rect id="f" width="1" height="1" fill="#c0c000" />
+    <rect id="b" width="1" height="1" fill="#00c000" />
+    <rect id="c" width="1" height="1" fill="#00c0c0" />
+    <rect id="a" width="1" height="1" fill="#0000c0" />
+    <rect id="e" width="1" height="1" fill="#c000c0" />
+    
+    <rect id="B" width="1" height="1" fill="#000000" />
+    <rect id="W" width="1" height="1" fill="#ffffff" />
+  </defs>
+
+  <use x="0" y="0" href="#t" />
+  <use x="1" y="0" href="#t" />
+  <use x="2" y="0" href="#t" />
+  <use x="3" y="0" href="#t" />
+  <use x="4" y="0" href="#l" />
+  <use x="5" y="0" href="#i" />
+  <use x="6" y="0" href="#a" />
+  <use x="7" y="0" href="#m" />
+  <use x="8" y="0" href="#e" />
+  <use x="9" y="0" href="#t" />
+  <use x="10" y="0" href="#f" />
+  <use x="11" y="0" href="#B" />
+  <use x="12" y="0" href="#m" />
+  <use x="0" y="1" href="#B" />
+  <use x="1" y="1" href="#t" />
+  <use x="2" y="1" href="#t" />
+  <use x="3" y="1" href="#B" />
+  <use x="4" y="1" href="#i" />
+  <use x="5" y="1" href="#i" />
+  <use x="6" y="1" href="#l" />
+  <use x="7" y="1" href="#l" />
+  <use x="8" y="1" href="#l" />
+  <use x="9" y="1" href="#d" />
+  <use x="10" y="1" href="#e" />
+  <use x="11" y="1" href="#d" />
+  <use x="12" y="1" href="#m" />
+  <use x="0" y="2" href="#n" />
+  <use x="1" y="2" href="#j" />
+  <use x="2" y="2" href="#l" />
+  <use x="3" y="2" href="#v" />
+  <use x="4" y="2" href="#j" />
+  <use x="5" y="2" href="#c" />
+  <use x="6" y="2" href="#f" />
+  <use x="7" y="2" href="#l" />
+  <use x="8" y="2" href="#l" />
+  <use x="9" y="2" href="#B" />
+  <use x="10" y="2" href="#i" />
+  <use x="11" y="2" href="#B" />
+  <use x="12" y="2" href="#m" />
+  <use x="0" y="3" href="#k" />
+  <use x="1" y="3" href="#m" />
+  <use x="2" y="3" href="#u" />
+  <use x="3" y="3" href="#u" />
+  <use x="4" y="3" href="#l" />
+  <use x="5" y="3" href="#j" />
+  <use x="6" y="3" href="#c" />
+  <use x="7" y="3" href="#b" />
+  <use x="8" y="3" href="#j" />
+  <use x="9" y="3" href="#j" />
+  <use x="10" y="3" href="#j" />
+  <use x="11" y="3" href="#B" />
+  <use x="12" y="3" href="#B" />
+</svg>
